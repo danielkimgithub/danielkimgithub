@@ -46,7 +46,7 @@
 			<th align="center"> Description </th>
 		</tr>
 		<tr>
-			<td rowspan="5" align="left"><a href="https://www.freecodecamp.org/learn/relational-database/">Relational Database Developer</a>
+			<td rowspan="6" align="left"><a href="https://www.freecodecamp.org/learn/relational-database/">Relational Database Developer</a>
 				<li>Tools: SQL, PostgreSQL, VSCode, Linux/Unix, Bash 
         </li>
       </td>
@@ -76,17 +76,24 @@
 		<tr>
 			<td align="left">
         <a href="https://github.com/danielkimgithub/Build-a-Periodic-Table-Database">Periodic Table Database</a>
-      </td>
+      			</td>
 			<td align="left">
         <li>Querying data based on user input.</li>
 			</td>
 		</tr>
 		<tr>
 			<td align="left">
-        <a href="https://github.com/danielkimgithub/Build-a-Number-Guessing-Game">Number Guessing Game</a>
-      </td>
+				<a href="https://github.com/danielkimgithub/Build-a-Number-Guessing-Game">Number Guessing Game</a>
+      			</td>
 			<td align="left">
         <li>Interactive bash script that runs in the terminal and saves user information and updates database with each game played.</li>
+			</td>
+		</tr>
+		<tr>
+			<td align="left"><a href="https://github.com/danielkimgithub/Building-a-Student-Database">Build a Student Database</a>
+			</td>
+			<td align="left">
+				<li>SQL queries that enter information about computer science students into PostgreSQL DBMS.</li>
 			</td>
 		</tr>
 	</tbody>

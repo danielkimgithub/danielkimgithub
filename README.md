@@ -1,1 +1,94 @@
-# About-Me
+<!-- header -->
+
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RtZnVkb3UyeGp6NjdvMnVnbWhvN3kwaG1jcnR5OXZrY3pucXEyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeJgB3yMMwIaHmKD4z/giphy.gif" width='300' height="200"/>
+</div>
+
+<h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+---
+
+<!-- about me -->
+
+### About Me :
+
+- 📈 Bachelor's of Arts in Economics - Mathematics graduate, applying theory into practice with code and software to develop my technical and analytical skills to solve complex, big data problems.
+- 💻  Currently working towards a Master's of Science in Data Science with a Concentration in Computational Methods to develop technical and programming skills to handle and analyze massive amounts of data, using appropriate analytics and machine learning techniques to gain meaningful insights from data.
+- 👤 Contact Information: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielkims/)   <a href=mailto:“jobsfordaniel1@gmail.com”>![Gmail Badge](https://img.shields.io/badge/email-white?style=flat&logo=gmail&labelColor=white&color=green)</a> 
+- History: [Insert CV/Resume]
+---
+---
+<!-- skills section - programming languages -->
+
+### Languages and Tools :
+<div id="languages" align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="60"/>
+  <img src="https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1655278325/hevo-learn/Power-BI-Power-BI-logo/Power-BI-Power-BI-logo.png?_i=AA" title="Power BI" alt="Power BI" width="80" height="60"/>
+  <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Symbol.png" title="Microsoft Excel" alt="Microsoft Excel" width="80" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="80" height="60"/>
+</div>
+
+---
+---
+<!-- projects - descriptions -->
+
+### 💻📊 Projects Submitted for Relational Database Developer Certification : <a href="https://www.freecodecamp.org/certification/DanielKim/relational-database-v8">Certificate</a>
+
+<table>
+	<tbody>
+		<tr>
+			<th align="center"> Course </th>
+			<th align="center"> Project </th>
+			<th align="center"> Description </th>
+		</tr>
+		<tr>
+			<td rowspan="5" align="left"><a href="https://www.freecodecamp.org/learn/relational-database/">Relational Database Developer</a>
+				<li>Tools: SQL, PostgreSQL, VSCode, Linux/Unix, Bash 
+        </li>
+      </td>
+			<td align="left">
+				<a href="https://github.com/danielkimgithub/dataProjects/tree/main">Celestial Bodies Database</a>
+	    </td>
+			<td align="left">
+				<li>Relational databases and inserting data based on gathered data from research.</li>
+			</td>
+		</tr>
+    <tr>
+			<td align="left">
+        <a href="https://github.com/danielkimgithub/Build-a-World-Cup-DB">2014 & 2018 World Cup Database</a>
+      </td>
+			<td align="left">
+        <li>Bash script to read csv data and insert each value to appropriate tables in a relational database</li>
+			</td>
+		</tr>
+    <tr>
+			<td align="left">
+        <a href="https://github.com/danielkimgithub/Build-a-Salon-Appointment-Scheduler">Salon Appointment Scheduler</a>
+      </td>
+			<td align="left">
+        <li>Insert data into database based on user input.</li>
+			</td>
+		</tr>
+		<tr>
+			<td align="left">
+        <a href="https://github.com/danielkimgithub/Build-a-Periodic-Table-Database">Periodic Table Database</a>
+      </td>
+			<td align="left">
+        <li>Querying data based on user input.</li>
+			</td>
+		</tr>
+		<tr>
+			<td align="left">
+        <a href="https://github.com/danielkimgithub/Build-a-Number-Guessing-Game">Number Guessing Game</a>
+      </td>
+			<td align="left">
+        <li>Interactive bash script that runs in the terminal and saves user information and updates database with each game played.</li>
+			</td>
+		</tr>
+	</tbody>
+
+</table>

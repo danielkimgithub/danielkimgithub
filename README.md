@@ -112,7 +112,7 @@
         </li>
       </td>
 			<td align="left">
-				<a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/build-an-arithmetic-formatter-project/build-an-arithmetic-formatter-project">Build an Arithmetic Formatter</a>
+				<a href="https://github.com/danielkimgithub/Build-an-Arithmetic-Formatter-Project">Build an Arithmetic Formatter</a>
 	    </td>
 			<td align="left">
 				<li>Write a function that receives a list of strings which are arithmetic problems, and returns the problems arranged vertically and side-by-side. See README.md for additional information.</li>

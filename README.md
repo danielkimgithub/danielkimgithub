@@ -94,3 +94,69 @@
 	</tbody>
 
 </table>
+
+<!-- projects - descriptions -->
+
+### 💻📊 Projects Submitted for Scientific Computing with Python Certification : <a href="https://www.freecodecamp.org/certification/DanielKim/relational-database-v8">Certificate</a>
+
+<table>
+	<tbody>
+		<tr>
+			<th align="center"> Course </th>
+			<th align="center"> Project </th>
+			<th align="center"> Description </th>
+		</tr>
+		<tr>
+			<td rowspan="6" align="left"><a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/">Scientific Computing with Python</a>
+				<li>Skills: fundamentals of scientific computing, including data structures, object-oriented programming, and algorithms 
+        </li>
+      </td>
+			<td align="left">
+				<a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/build-an-arithmetic-formatter-project/build-an-arithmetic-formatter-project">Build an Arithmetic Formatter</a>
+	    </td>
+			<td align="left">
+				<li>Write a function that receives a list of strings which are arithmetic problems, and returns the problems arranged vertically and side-by-side. See README.md for additional information.</li>
+			</td>
+		</tr>
+    <tr>
+			<td align="left">
+        <a href="https://github.com/danielkimgithub/Build-a-World-Cup-DB">2014 & 2018 World Cup Database</a>
+      </td>
+			<td align="left">
+        <li>Bash script to read csv data and insert each value to appropriate tables in a relational database</li>
+			</td>
+		</tr>
+    <tr>
+			<td align="left">
+        <a href="https://github.com/danielkimgithub/Build-a-Salon-Appointment-Scheduler">Salon Appointment Scheduler</a>
+      </td>
+			<td align="left">
+        <li>Insert data into database based on user input.</li>
+			</td>
+		</tr>
+		<tr>
+			<td align="left">
+        <a href="https://github.com/danielkimgithub/Build-a-Periodic-Table-Database">Periodic Table Database</a>
+      			</td>
+			<td align="left">
+        <li>Querying data based on user input.</li>
+			</td>
+		</tr>
+		<tr>
+			<td align="left">
+				<a href="https://github.com/danielkimgithub/Build-a-Number-Guessing-Game">Number Guessing Game</a>
+      			</td>
+			<td align="left">
+        <li>Interactive bash script that runs in the terminal and saves user information and updates database with each game played.</li>
+			</td>
+		</tr>
+		<tr>
+			<td align="left"><a href="https://github.com/danielkimgithub/Building-a-Student-Database">Build a Student Database</a>
+			</td>
+			<td align="left">
+				<li>SQL queries that enter information about computer science students into PostgreSQL DBMS.</li>
+			</td>
+		</tr>
+	</tbody>
+
+</table>

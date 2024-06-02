@@ -120,10 +120,10 @@
 		</tr>
     <tr>
 			<td align="left">
-        <a href="https://github.com/danielkimgithub/Build-a-World-Cup-DB">2014 & 2018 World Cup Database</a>
+        <a href="https://github.com/danielkimgithub/Time_Calculator_Project">Build a Time Calculator</a>
       </td>
 			<td align="left">
-        <li>Bash script to read csv data and insert each value to appropriate tables in a relational database</li>
+        <li>Write a function that will add the duration time (second parameter) to the start time (first parameter) and return the result.</li>
 			</td>
 		</tr>
     <tr>

@@ -128,10 +128,10 @@
 		</tr>
     <tr>
 			<td align="left">
-        <a href="https://github.com/danielkimgithub/Build-a-Salon-Appointment-Scheduler">Salon Appointment Scheduler</a>
+        <a href="https://github.com/danielkimgithub/Build_A_Budget_App">Budget App</a>
       </td>
 			<td align="left">
-        <li>Insert data into database based on user input.</li>
+        <li>Develop class to build budget app that keeps track of expenses in a ledger list.</li>
 			</td>
 		</tr>
 		<tr>

@@ -128,7 +128,7 @@
 		</tr>
     <tr>
 			<td align="left">
-        <a href="https://github.com/danielkimgithub/Build_A_Budget_App">Budget App</a>
+        <a href="https://github.com/danielkimgithub/Build_A_Budget_App">Build a Budget App</a>
       </td>
 			<td align="left">
         <li>Develop class to build budget app that keeps track of expenses in a ledger list.</li>

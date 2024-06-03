@@ -136,10 +136,10 @@
 		</tr>
 		<tr>
 			<td align="left">
-        <a href="https://github.com/danielkimgithub/Build-a-Periodic-Table-Database">Periodic Table Database</a>
+        <a href="https://github.com/danielkimgithub/Build-a-Polygon-Area-Calculator-Project/tree/main">Build a Polygon Area Calculator</a>
       			</td>
 			<td align="left">
-        <li>Querying data based on user input.</li>
+        <li>Use OOP to create a Rectangle class and a Square class.</li>
 			</td>
 		</tr>
 		<tr>

@@ -97,7 +97,7 @@
 
 <!-- projects - descriptions -->
 
-### 💻📊 Projects Submitted for Scientific Computing with Python Certification : <a href="https://www.freecodecamp.org/certification/DanielKim/relational-database-v8">Certificate</a>
+### 💻📊 Projects Submitted for Scientific Computing with Python Certification : <a href="https://www.freecodecamp.org/certification/DanielKim/scientific-computing-with-python-v7">Certificate</a>
 
 <table>
 	<tbody>
@@ -144,19 +144,11 @@
 		</tr>
 		<tr>
 			<td align="left">
-				<a href="https://github.com/danielkimgithub/Build-a-Number-Guessing-Game">Number Guessing Game</a>
+				<a href="https://github.com/danielkimgithub/Build-a-Probability-Calculator-Project/tree/main">Build a Probablity Calculator</a>
       			</td>
 			<td align="left">
-        <li>Interactive bash script that runs in the terminal and saves user information and updates database with each game played.</li>
-			</td>
-		</tr>
-		<tr>
-			<td align="left"><a href="https://github.com/danielkimgithub/Building-a-Student-Database">Build a Student Database</a>
-			</td>
-			<td align="left">
-				<li>SQL queries that enter information about computer science students into PostgreSQL DBMS.</li>
+        <li>Write a program to determine the approximate probability of drawing certain balls randomly from a hat.</li>
 			</td>
 		</tr>
 	</tbody>
-
 </table>

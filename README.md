@@ -29,9 +29,69 @@
 
 ---
 ---
-<!-- projects - descriptions -->
 
-### 💻📊 Projects Submitted for Relational Database Developer Certification : <a href="https://www.freecodecamp.org/certification/DanielKim/relational-database-v8">Certificate</a>
+### Completed Projects 
+
+<!-- projects - descriptions -->
+#### 💻📊 Data Analysis with Python Certification : <a href="https://www.freecodecamp.org/certification/DanielKim/scientific-computing-with-python-v7">Certificate</a>
+
+<table>
+	<tbody>
+		<tr>
+			<th align="center"> Course </th>
+			<th align="center"> Project </th>
+			<th align="center"> Description </th>
+		</tr>
+		<tr>
+			<td rowspan="6" align="left"><a href="https://www.freecodecamp.org/learn/data-analysis-with-python/">Data Analysis with Python</a>
+				<li>Skills: read data from sources like CSVs and SQL, and use libraries like Numpy, Pandas, Matplotlib, and Seaborn to process and visualize data.
+        </li>
+      </td>
+			<td align="left">
+				<a href="https://github.com/danielkimgithub/Mean-Variance-Standard-Deviation-Calculator/tree/main">Mean-Variance-Standard Deviation Calculator
+</a>
+	    </td>
+			<td align="left">
+				<li>Use Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix. Input will be a list of 9 integers and raises error if list has less than 9 integers.</li>
+			</td>
+		</tr>
+    <tr>
+			<td align="left">
+        <a href="https://github.com/danielkimgithub/Time_Calculator_Project">Build a Time Calculator</a>
+      </td>
+			<td align="left">
+        <li>Write a function that will add the duration time (second parameter) to the start time (first parameter) and return the result.</li>
+			</td>
+		</tr>
+    <tr>
+			<td align="left">
+        <a href="https://github.com/danielkimgithub/Build_A_Budget_App">Build a Budget App</a>
+      </td>
+			<td align="left">
+        <li>Develop class to build budget app that keeps track of expenses in a ledger list.</li>
+			</td>
+		</tr>
+		<tr>
+			<td align="left">
+        <a href="https://github.com/danielkimgithub/Build-a-Polygon-Area-Calculator-Project/tree/main">Build a Polygon Area Calculator</a>
+      			</td>
+			<td align="left">
+        <li>Use OOP to create a Rectangle class and a Square class.</li>
+			</td>
+		</tr>
+		<tr>
+			<td align="left">
+				<a href="https://github.com/danielkimgithub/Build-a-Probability-Calculator-Project/tree/main">Build a Probablity Calculator</a>
+      			</td>
+			<td align="left">
+        <li>Write a program to determine the approximate probability of drawing certain balls randomly from a hat.</li>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+#### 💻📊 Relational Database Developer Certification : <a href="https://www.freecodecamp.org/certification/DanielKim/relational-database-v8">Certificate</a>
 
 <table>
 	<tbody>
@@ -97,7 +157,7 @@
 
 <!-- projects - descriptions -->
 
-### 💻📊 Projects Submitted for Scientific Computing with Python Certification : <a href="https://www.freecodecamp.org/certification/DanielKim/scientific-computing-with-python-v7">Certificate</a>
+#### 💻📊 Scientific Computing with Python Certification : <a href="https://www.freecodecamp.org/certification/DanielKim/scientific-computing-with-python-v7">Certificate</a>
 
 <table>
 	<tbody>

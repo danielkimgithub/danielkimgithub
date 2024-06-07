@@ -57,10 +57,10 @@
 		</tr>
     <tr>
 			<td align="left">
-        <a href="https://github.com/danielkimgithub/Time_Calculator_Project">Build a Time Calculator</a>
+        <a href="https://github.com/danielkimgithub/Demographic-Data-Analyzer/tree/main">Demographic Data Analyzer</a>
       </td>
 			<td align="left">
-        <li>Write a function that will add the duration time (second parameter) to the start time (first parameter) and return the result.</li>
+        <li>Analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database.</li>
 			</td>
 		</tr>
     <tr>

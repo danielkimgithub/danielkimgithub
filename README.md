@@ -65,10 +65,10 @@
 		</tr>
     <tr>
 			<td align="left">
-        <a href="https://github.com/danielkimgithub/Build_A_Budget_App">Build a Budget App</a>
+        <a href="https://github.com/danielkimgithub/Medical-Data-Visualizer">Medical Data Visualizer</a>
       </td>
 			<td align="left">
-        <li>Develop class to build budget app that keeps track of expenses in a ledger list.</li>
+        <li>Use pandas, matplotlib, and seaborn libraries to explore the relationship between cardiac disease, body measurements, blood markers, and lifestyle choices.</li>
 			</td>
 		</tr>
 		<tr>

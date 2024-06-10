@@ -73,10 +73,10 @@
 		</tr>
 		<tr>
 			<td align="left">
-        <a href="https://github.com/danielkimgithub/Build-a-Polygon-Area-Calculator-Project/tree/main">Build a Polygon Area Calculator</a>
+        <a href="https://github.com/danielkimgithub/Page-View-Time-Series-Visualizer">Page View Time Series Visualizer</a>
       			</td>
 			<td align="left">
-        <li>Use OOP to create a Rectangle class and a Square class.</li>
+        <li>Visualize time series data using a line chart, bar chart, and box plots. You will use Pandas, Matplotlib, and Seaborn to visualize a dataset containing the number of page views each day.</li>
 			</td>
 		</tr>
 		<tr>

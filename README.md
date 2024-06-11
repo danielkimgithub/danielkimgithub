@@ -33,7 +33,7 @@
 ### Completed Projects 
 
 <!-- projects - descriptions -->
-#### 💻📊 Data Analysis with Python Certification : <a href="https://www.freecodecamp.org/certification/DanielKim/scientific-computing-with-python-v7">Certificate</a>
+#### 💻📊 Data Analysis with Python Certification : <a href="https://www.freecodecamp.org/certification/DanielKim/data-analysis-with-python-v7">Certificate</a>
 
 <table>
 	<tbody>

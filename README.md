@@ -30,7 +30,28 @@
 ---
 ---
 
-### Completed Projects 
+### Completed Projects
+
+#### 💻📊 Sports Data Analysis:
+
+<table>
+	<tbody>
+		<tr>
+			<th align="center"> Project </th>
+			<th align="center"> Description </th>
+		</tr>
+		<tr>
+			<td align="left">
+				<a href="https://github.com/danielkimgithub/European-Soccer-League-Analysis/blob/main/EuroSoccer.ipynb
+">European Soccer Leagues Statistics Analysis
+</a>
+	    </td>
+			<td align="left">
+				<li>Analyze data from European soccer games using the SQL programming language.</li>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 <!-- projects - descriptions -->
 #### 💻📊 Data Analysis with Python Certification : <a href="https://www.freecodecamp.org/certification/DanielKim/data-analysis-with-python-v7">Certificate</a>

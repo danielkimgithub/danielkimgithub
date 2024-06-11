@@ -81,10 +81,10 @@
 		</tr>
 		<tr>
 			<td align="left">
-				<a href="https://github.com/danielkimgithub/Build-a-Probability-Calculator-Project/tree/main">Build a Probablity Calculator</a>
+				<a href="https://github.com/danielkimgithub/Sea-Level-Predictor">Sea Level Predictor</a>
       			</td>
 			<td align="left">
-        <li>Write a program to determine the approximate probability of drawing certain balls randomly from a hat.</li>
+        <li>Analyze a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050.</li>
 			</td>
 		</tr>
 	</tbody>

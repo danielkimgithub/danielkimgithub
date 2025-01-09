@@ -56,7 +56,7 @@
 		</tr>
     <tr>
 			<td align="left">
-        <a href="https://github.com/danielkimgithub/Demographic-Data-Analyzer/tree/main">Imput Next Project Details Here</a>
+        <a href="https://github.com/danielkimgithub/Demographic-Data-Analyzer/tree/main">Input Next Project Details Here</a>
       </td>
 			<td align="left">
         <li>Analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database.</li>
@@ -89,6 +89,60 @@
 	</tbody>
 </table>
 
+#### 💻📊 Projects in C Language:
+<table>
+	<tbody>
+		<tr>
+			<th align="center"> Course </th>
+			<th align="center"> Projects </th>
+			<th align="center"> Description </th>
+		</tr>
+		<tr>
+			<td rowspan="6" align="left"><a href="https://cs50.harvard.edu/x/2025/">CS50: Intro. to Computer Science</a>
+				<li>Skills: Topics include computational thinking, abstraction, algorithms, data structures, memory allocation, processing efficiency, and computer science more generally.</li>
+      </td>
+			<td align="left">
+				<a href="https://github.com/danielkimgithub/">C. Source Code. Machine Code. Compiler. Correctness, Design, Style. Visual Studio Code. Syntax Highlighting. Escape Sequences. Header Files. Libraries. Manual Pages. Types. Conditionals. Variables. Loops. Linux. Graphical User Interface (GUI). Command-Line Interface (CLI). Constants. Comments. Pseudocode. Operators. Integer Overflow. Floating-Point Imprecision.
+</a>
+	    </td>
+			<td align="left">
+				<li>Wrote a program called credit.c that prompts the user for a credit card number and then reports whether it is a valid American Express, MasterCard, or Visa card number, per the definitions of each’s format herein. So that we can automate some tests of your code, we ask that your program’s last line of output be AMEX\n or MASTERCARD\n or VISA\n or INVALID\n.</li>
+			</td>
+		</tr>
+    <tr>
+			<td align="left">
+        <a href="https://github.com/danielkimgithub/Demographic-Data-Analyzer/tree/main">Input Next Project Details Here</a>
+      </td>
+			<td align="left">
+        <li>Analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database.</li>
+			</td>
+		</tr>
+    <tr>
+			<td align="left">
+        <a href="https://github.com/danielkimgithub/Medical-Data-Visualizer">Medical Data Visualizer</a>
+      </td>
+			<td align="left">
+        <li>Use pandas, matplotlib, and seaborn libraries to explore the relationship between cardiac disease, body measurements, blood markers, and lifestyle choices.</li>
+			</td>
+		</tr>
+		<tr>
+			<td align="left">
+        <a href="https://github.com/danielkimgithub/Page-View-Time-Series-Visualizer">Page View Time Series Visualizer</a>
+      			</td>
+			<td align="left">
+        <li>Visualize time series data using a line chart, bar chart, and box plots. You will use Pandas, Matplotlib, and Seaborn to visualize a dataset containing the number of page views each day.</li>
+			</td>
+		</tr>
+		<tr>
+			<td align="left">
+				<a href="https://github.com/danielkimgithub/Sea-Level-Predictor">Sea Level Predictor</a>
+      			</td>
+			<td align="left">
+        <li>Analyze a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050.</li>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 #### 💻📊 Sports Data Analysis:
 

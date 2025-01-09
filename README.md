@@ -39,7 +39,7 @@
 	<tbody>
 		<tr>
 			<th align="center"> Course </th>
-			<th align="center"> Projects </th>
+			<th align="center"> Project </th>
 			<th align="center"> Description </th>
 		</tr>
 		<tr>
@@ -94,7 +94,7 @@
 	<tbody>
 		<tr>
 			<th align="center"> Course </th>
-			<th align="center"> Projects </th>
+			<th align="center"> Project </th>
 			<th align="center"> Description </th>
 		</tr>
 		<tr>
@@ -102,8 +102,7 @@
 				<li>Skills: Topics include computational thinking, abstraction, algorithms, data structures, memory allocation, processing efficiency, and computer science more generally.</li>
       </td>
 			<td align="left">
-				<a href="https://github.com/danielkimgithub/">C. Source Code. Machine Code. Compiler. Correctness, Design, Style. Visual Studio Code. Syntax Highlighting. Escape Sequences. Header Files. Libraries. Manual Pages. Types. Conditionals. Variables. Loops. Linux. Graphical User Interface (GUI). Command-Line Interface (CLI). Constants. Comments. Pseudocode. Operators. Integer Overflow. Floating-Point Imprecision.
-</a>
+				<a href="https://github.com/code50/17164511/blob/main/credit/credit.c"> Wk 1: Check Validity of Credit Card Number.</a>
 	    </td>
 			<td align="left">
 				<li>Wrote a program called credit.c that prompts the user for a credit card number and then reports whether it is a valid American Express, MasterCard, or Visa card number, per the definitions of each’s format herein. So that we can automate some tests of your code, we ask that your program’s last line of output be AMEX\n or MASTERCARD\n or VISA\n or INVALID\n.</li>

@@ -34,7 +34,7 @@
 
 ### Completed Projects
 
-#### 💻📊 Data Science/ Machine Learning Projects:
+#### 💻📊 Data Science/ Machine Learning Projects: FINISH UPDATING INFORMATION ON PROJECTS
 <table>
 	<tbody>
 		<tr>
@@ -89,7 +89,7 @@
 	</tbody>
 </table>
 
-#### 💻📊 Projects in C Language:
+#### 💻📊 Projects in C Language: CREATE REPOSITORY FOR THESE PROJECTS ONCE ALL ARE COMPLETED
 <table>
 	<tbody>
 		<tr>

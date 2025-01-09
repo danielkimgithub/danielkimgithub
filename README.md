@@ -54,7 +54,7 @@
 		</tr>
     <tr>
 			<td align="left">
-        <a href="https://github.com/danielkimgithub/Demographic-Data-Analyzer/tree/main">NICE Data Analyzer</a>
+        <a href="https://github.com/danielkimgithub/Demographic-Data-Analyzer/tree/main">Imput Next Project Details Here</a>
       </td>
 			<td align="left">
         <li>Analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database.</li>

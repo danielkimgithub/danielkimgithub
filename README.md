@@ -32,6 +32,62 @@
 
 ### Completed Projects
 
+#### 💻📊 Data Science/ Machine Learning Projects:
+<table>
+	<tbody>
+		<tr>
+			<th align="center"> Course </th>
+			<th align="center"> Projects </th>
+			<th align="center"> Description </th>
+		</tr>
+		<tr>
+			<td rowspan="6" align="left"><a href="https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?CrseId=007519">Fundamentals of Data Science</a>
+				<li>Skills: Statistical Analysis, Machine Learning Algorithms, R, RStudio, Data Pipeline, Classification, Clustering, Supervised Learning, Unsupervised Learning.</li>
+      </td>
+			<td align="left">
+				<a href="https://github.com/danielkimgithub/Fundamental-ML-Algorithms"> Building fundamental machine learning models with SVM, Decision Tree, and KNN classifications, and k-mean clustering algorithms.
+</a>
+	    </td>
+			<td align="left">
+				<li>In R / RStudio, generated reports on machine learning models using different supervised and unsupervised algorithms, with consideration of the context behind the mock data and the mock data itself. The model was created using randomly generated testing and training sets from the original dataset.</li>
+			</td>
+		</tr>
+    <tr>
+			<td align="left">
+        <a href="https://github.com/danielkimgithub/Demographic-Data-Analyzer/tree/main">NICE Data Analyzer</a>
+      </td>
+			<td align="left">
+        <li>Analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database.</li>
+			</td>
+		</tr>
+    <tr>
+			<td align="left">
+        <a href="https://github.com/danielkimgithub/Medical-Data-Visualizer">Medical Data Visualizer</a>
+      </td>
+			<td align="left">
+        <li>Use pandas, matplotlib, and seaborn libraries to explore the relationship between cardiac disease, body measurements, blood markers, and lifestyle choices.</li>
+			</td>
+		</tr>
+		<tr>
+			<td align="left">
+        <a href="https://github.com/danielkimgithub/Page-View-Time-Series-Visualizer">Page View Time Series Visualizer</a>
+      			</td>
+			<td align="left">
+        <li>Visualize time series data using a line chart, bar chart, and box plots. You will use Pandas, Matplotlib, and Seaborn to visualize a dataset containing the number of page views each day.</li>
+			</td>
+		</tr>
+		<tr>
+			<td align="left">
+				<a href="https://github.com/danielkimgithub/Sea-Level-Predictor">Sea Level Predictor</a>
+      			</td>
+			<td align="left">
+        <li>Analyze a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050.</li>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
 #### 💻📊 Sports Data Analysis:
 
 <table>

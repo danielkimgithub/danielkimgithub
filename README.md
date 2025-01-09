@@ -10,8 +10,9 @@
 
 ### About Me :
 
-- 📈 Bachelor's of Arts in Economics - Mathematics graduate, applying theory into practice with code and software to develop my technical and analytical skills to solve complex, big data problems.
-- 💻  Currently working towards a Master's of Science in Data Science with a Concentration in Computational Methods to develop technical and programming skills to handle and analyze massive amounts of data, using appropriate analytics and machine learning techniques to gain meaningful insights from data.
+- 📈 Bachelor's of Arts in Economics - Mathematics: Applied theory into practice with statistical codes and software to develop my technical and analytical skills, solving complex and big data problems.
+- 💻 Master's of Science in Data Science with a Concentration in Computational Methods: Train my technical and programming skills to handle and analyze big data, using appropriate analytics and machine learning techniques to gain meaningful insights.
+- Avid Software Engineer: Learning numerous coding languages, including declarative languages such as SQL. Languages included below.
 - 👤 Contact Information: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielkims/)   <a href=mailto:“jobsfordaniel1@gmail.com”>![Gmail Badge](https://img.shields.io/badge/email-white?style=flat&logo=gmail&labelColor=white&color=green)</a> 
 - History: [Insert CV/Resume]
 ---
@@ -25,6 +26,7 @@
   <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Symbol.png" title="Microsoft Excel" alt="Microsoft Excel" width="80" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="80" height="60"/>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" title="C" alt="C" width="80" height="60"/>
 </div>
 
 ---

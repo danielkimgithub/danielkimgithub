@@ -42,14 +42,14 @@
 		</tr>
 		<tr>
 			<td rowspan="6" align="left"><a href="https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?CrseId=007519">Fundamentals of Data Science</a>
-				<li>Skills: Statistical Analysis, Machine Learning Algorithms, R, RStudio, Data Pipeline, Classification, Clustering, Supervised Learning, Unsupervised Learning.</li>
+				<li>Skills: Statistical Analysis, Machine Learning Algorithms, R, RStudio, Data Pipeline, Classification, Clustering, Supervised Learning, Unsupervised Learning, Training/Testing Sets, Datasets.</li>
       </td>
 			<td align="left">
-				<a href="https://github.com/danielkimgithub/Fundamental-ML-Algorithms"> Building fundamental machine learning models with SVM, Decision Tree, and KNN classifications, and k-mean clustering algorithms.
+				<a href="https://github.com/danielkimgithub/Fundamental-ML-Algorithms/blob/main/dataPreprocessingVisualization.Rmd">Data Preprocessing, Exploration, Transformation, Analysis, Visualization.
 </a>
 	    </td>
 			<td align="left">
-				<li>In R / RStudio, generated reports on machine learning models using different supervised and unsupervised algorithms, with consideration of the context behind the mock data and the mock data itself. The model was created using randomly generated testing and training sets from the original dataset.</li>
+				<li>I performed simple data preprocessing and exploration on a mock datasets, which were loaded into my IDE in RStudio. After I joined two datasets into one table, using inner join commands, I preprocessed the data to handle missing values and remove any redundancies. In my exploration, I reported the summary statistics that provided information and generated visualizations. For example, a time-series line graph was presented to illustrate the population growth of a state over a period.</li>
 			</td>
 		</tr>
     <tr>

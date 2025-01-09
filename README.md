@@ -21,12 +21,12 @@
 
 ### Languages and Tools :
 <div id="languages" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="60"/>
-  <img src="https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1655278325/hevo-learn/Power-BI-Power-BI-logo/Power-BI-Power-BI-logo.png?_i=AA" title="Power BI" alt="Power BI" width="80" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="100" height="60"/>
+  <img src="https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1655278325/hevo-learn/Power-BI-Power-BI-logo/Power-BI-Power-BI-logo.png?_i=AA" title="Power BI" alt="Power BI" width="85" height="60"/>
   <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Symbol.png" title="Microsoft Excel" alt="Microsoft Excel" width="80" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="80" height="60"/>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" title="C" alt="C" width="80" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="75" height="60"/>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" title="C" alt="C" width="60" height="60"/>
 </div>
 
 ---

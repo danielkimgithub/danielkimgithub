@@ -164,11 +164,11 @@
 		</tr>
 		<tr>
 			<td align="left">
-				<a href="">F1 Motor Sport Data Model: Exploring Performance Metrics to Predict Race Outcomes
+				<a href="https://github.com/danielkimgithub/Data-Related-Sports-Project-Models/blob/main/F1DataModelCode.ipynb">F1 Motor Sport Data Model: Exploring Performance Metrics to Predict Race Outcomes
 				</a>
 			</td>
 			<td align="left">
-				<li>Determine metrics that are cruicial to constructor performance and predict likelihood of winning the World Constructors' Championship.</li>
+				<li>Determine metrics that are cruicial to constructor performance and predict likelihood of winning the World Constructors' Championship <a href="https://github.com/danielkimgithub/Data-Related-Sports-Project-Models/blob/main/F1%20Data%20Model%20Report.pdf">report.</a></li>
 			</td>
 		</tr>
 	</tbody>

@@ -162,6 +162,15 @@
 				<li>Analyze data from European soccer games using the SQL programming language.</li>
 			</td>
 		</tr>
+		<tr>
+			<td align="left">
+				<a href="">F1 Motor Sport Data Model: Exploring Performance Metrics to Predict Race Outcomes
+				</a>
+			</td>
+			<td align="left">
+				<li>Determine metrics that are cruicial to constructor performance and predict likelihood of winning the World Constructors' Championship.</li>
+			</td>
+		</tr>
 	</tbody>
 </table>
 

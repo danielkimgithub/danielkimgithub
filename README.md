@@ -14,7 +14,7 @@
 - 💻 Master's of Science in Data Science with a Concentration in Computational Methods: Train my technical and programming skills to handle and analyze big data, using appropriate analytics and machine learning techniques to gain meaningful insights.
 - Avid Software Engineer: Self-taught coding languages, including declarative languages such as SQL. Languages included below.
 - 👤 Contact Information: <a href=mailto:“jobsfordaniel1@gmail.com”>![Gmail Badge](https://img.shields.io/badge/email-white?style=flat&logo=gmail&labelColor=white&color=green)</a> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielkims/)
--  [![Resume Badge](https://img.shields.io/badge/Resume-yellow?style=flat)](https://github.com/danielkimgithub/danielkimgithub/blob/main/Kim%2C%20Daniel%20Data%20Scientist%20Resume.pdf)
+- [![Resume Badge](https://img.shields.io/badge/Resume-yellow?style=flat)](https://github.com/danielkimgithub/danielkimgithub/blob/main/Kim%2C%20Daniel%20Data%20Scientist%20Resume.pdf)
 ---
 ---
 

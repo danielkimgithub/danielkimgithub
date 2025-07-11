@@ -35,7 +35,7 @@
 
 ### Completed Projects
 
-#### 💻📊 Data Science/ Machine Learning Projects: FINISH UPDATING INFORMATION ON PROJECTS
+#### 💻📊 Data Science/ Machine Learning Projects: IN PROGRESS
 <table>
 	<tbody>
 		<tr>
@@ -90,7 +90,7 @@
 	</tbody>
 </table>
 
-#### 💻📊 Projects in C Language: CREATE REPOSITORY FOR THESE PROJECTS ONCE ALL ARE COMPLETED
+#### 💻📊 Projects in C Language (Specific to CS50 course): IN PROGRESS
 <table>
 	<tbody>
 		<tr>
@@ -164,11 +164,11 @@
 		</tr>
 		<tr>
 			<td align="left">
-				<a href="https://github.com/danielkimgithub/Data-Related-Sports-Project-Models/blob/main/F1DataModelCode.ipynb">F1 Motor Sport Data Model: Exploring Performance Metrics to Predict Race Outcomes
-				</a>
+				<a href="https://github.com/danielkimgithub/Data-Related-Sports-Project-Models/blob/main/F1DataModelCode.ipynb">F1 Motor Sport Data Model: Exploring Performance Metrics to Predict Race Outcomes:
+				</a><a href="https://github.com/danielkimgithub/Data-Related-Sports-Project-Models/blob/main/F1%20Data%20Model%20Report.pdf">Report.</a>
 			</td>
 			<td align="left">
-				<li>Determine metrics that are cruicial to constructor performance and predict likelihood of winning the World Constructors' Championship <a href="https://github.com/danielkimgithub/Data-Related-Sports-Project-Models/blob/main/F1%20Data%20Model%20Report.pdf">report.</a></li>
+				<li>Determine metrics that are cruicial to constructor performance and predict likelihood of winning the World Constructors' Championship </li>
 			</td>
 		</tr>
 	</tbody>
